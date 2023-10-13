@@ -87,6 +87,8 @@ export default function Form() {
       })
         //fetchData()
       
+
+        
   }
   const handleDelete = (id) => {
     axios.delete(`http://localhost:3002/productsData/${id}`)
