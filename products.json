@@ -1,0 +1,66 @@
+{
+  "productsData": [
+    {
+      "productId": "",
+      "title": "",
+      "brand": "",
+      "price": "",
+      "des": "",
+      "imgurl": "",
+      "id": 1
+    },
+    {
+      "productId": "1",
+      "title": "q",
+      "brand": "q",
+      "price": "1",
+      "des": "q",
+      "imgurl": "q",
+      "id": 2
+    },
+    {
+      "productId": "3",
+      "title": "phoneI",
+      "brand": "78",
+      "price": "120000",
+      "des": "Wow! I like to buy.",
+      "imgurl": "https://m.media-amazon.com/images/I/314Rp+8XKWL._SX342_SY445_.jpg",
+      "id": 3
+    },
+    {
+      "productId": "4",
+      "title": "buds",
+      "brand": "noise",
+      "price": "1000",
+      "des": "nice",
+      "imgurl": "https://www.google.com/aclk?sa=l&ai=DChcSEwjTpsDdqPCBAxWoM4MDHQK6CbYYABANGgJzZg&ase=2&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuYxTJNtXPvlYMWGAygr12Km-04Z1q-EwO1gP_RBGc11N0UCa93HEwsaAuauEALw_wcB&sig=AOD64_227ZH9eD7rO3vaJu5ZiTVXVhCB1w&ctype=5&nis=6&adurl&ved=2ahUKEwi6sqzdqPCBAxV8bWwGHXoEBJwQvhd6BQgBEIoB",
+      "id": 4
+    },
+    {
+      "productId": "5",
+      "title": "buds",
+      "brand": "samsung",
+      "price": "1600",
+      "des": "good one !",
+      "imgurl": "https://m.media-amazon.com/images/I/31Tm22hUx1L._SY300_SX300_QL70_FMwebp_.jpg",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
